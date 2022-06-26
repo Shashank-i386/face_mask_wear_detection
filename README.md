@@ -6,6 +6,7 @@ an internship projecct from i-neuron
 ### Keras
 ### TensorFlow
 ### MobileNetV2
+### streamlit
 # ⭐ Features
 Our face mask detector doesn't use any morphed masked images dataset and the model is accurate. Owing to the use of MobileNetV2 architecture, it is computationally efficient.
 
