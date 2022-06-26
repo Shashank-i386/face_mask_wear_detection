@@ -9,4 +9,4 @@ scipy
 scikit-learn
 pillow
 streamlit
-streamlit-webrct
+streamlit-webrtc
