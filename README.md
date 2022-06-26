@@ -50,5 +50,8 @@ sample
   <img src="face_mask_detector/screen_shots/Screenshot from 2022-06-23 15-02-15.png">
 </p>
 
+<p align="center">
+  <img src="face_mask_detector/screen_shots/real time face mask gif.gif">
+</p>
 
 
