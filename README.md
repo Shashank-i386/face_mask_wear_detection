@@ -37,7 +37,7 @@ Face Mask Detector webapp using Tensorflow & Streamlit
 
 command
 ```
-$ streamlit run app.py 
+$ streamlit run face_detec.py 
 
 ```
 sample
