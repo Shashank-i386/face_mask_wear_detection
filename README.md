@@ -6,7 +6,7 @@ an internship projecct from i-neuron
 ### Keras
 ### TensorFlow
 ### MobileNetV2
-### streamlit
+### Streamlit
 # ⭐ Features
 Our face mask detector doesn't use any morphed masked images dataset and the model is accurate. Owing to the use of MobileNetV2 architecture, it is computationally efficient.
 
@@ -27,7 +27,7 @@ $ git clone https://github.com/Shashank-i386/face_mask_wear_detection.git
 ```
 Change your directory to the cloned repo
 ```
-$ cd face_mask_wear_Detection
+$ cd face_mask_detector
 ```
 ![image](https://user-images.githubusercontent.com/58115580/175804970-08db605c-cf38-4ee5-a0d9-57e0fc4c057c.png)
 
